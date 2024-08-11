@@ -1,7 +1,7 @@
 # mdjvt.py
 
 <p align="center" width="100%">
-    <img width="60%" align="center" src="https://oceanofanythingofficial.github.io/Midjourney-Prompt-And-Video-Transcript-Generator/Midjourney-Prompt-And-Video-Transcript-Generator.jpeg"/>
+    <img width="60%" align="center" src="mjdv.png"/>
 </p>
 
 ## Table of Contents
