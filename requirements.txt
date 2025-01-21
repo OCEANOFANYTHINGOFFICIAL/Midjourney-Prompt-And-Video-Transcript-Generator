@@ -1,5 +1,5 @@
 cohere~=5.13.3
-openai~=1.57.2
+openai~=1.59.9
 moviepy~=2.1.1
 pydub~=0.25.1
 speechrecognition~=3.14.0
