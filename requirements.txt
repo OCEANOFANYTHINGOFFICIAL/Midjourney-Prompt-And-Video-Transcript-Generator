@@ -1,4 +1,4 @@
-cohere~=5.13.3
+cohere~=5.14.0
 openai~=1.59.9
 moviepy~=2.1.1
 pydub~=0.25.1
